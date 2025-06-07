@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Education.Models.Student>
+
+@{
+    ViewData["Title"] = "Students";
+}
+<link rel="stylesheet" href="~/Students/Index.css" />
+<h1>Students</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New Student</a>
+</p>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info" role="alert">
+        No students found.
+    </div>
+}
+else
+{
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    <table>
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>Date of Birth</th>
+                <th>Phone Number</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Select((student, index) => new { student, index }))
+            {
+                <tr class="@(item.index % 2 == 0 ? "table-light" : "table-secondary")">
+                    <td>@item.student.FirstName</td>
+                    <td>@item.student.LastName</td>
+                    <td>@item.student.Email</td>
+                    <td>@item.student.DateOfBirth.ToShortDateString()</td>
+                    <td>@item.student.PhoneNumber</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.student.Id" class="btn btn-sm btn-warning">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.student.Id" class="btn btn-sm btn-info">Details</a>
+                        <form asp-action="Delete" asp-route-id="@item.student.Id" method="post" style="display:inline;" onsubmit="return confirmDelete();">
+                            <input type="submit" value="Delete" class="btn btn-sm btn-danger" />
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@section Scripts {
+    <script>
+        function confirmDelete() {
+            return confirm("Are you sure you want to delete this student? All related enrollment information will also be deleted.");
+        }
+    </script>
+}

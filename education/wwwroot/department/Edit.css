@@ -1,0 +1,24 @@
+﻿.form-group {
+    margin-bottom: 1.5rem;
+}
+
+    .form-group label {
+        display: block;
+        margin-bottom: 0.5rem;
+    }
+
+    .form-group input {
+        width: 100%;
+        padding: 0.5rem;
+        font-size: 1rem;
+        border-radius: 4px;
+        border: 1px solid #ced4da;
+    }
+
+.btn-primary {
+    margin-right: 1rem; 
+}
+
+.btn-secondary {
+    margin-top: 1rem; 
+}

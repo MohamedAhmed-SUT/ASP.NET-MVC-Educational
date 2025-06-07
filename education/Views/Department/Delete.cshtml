@@ -1,0 +1,48 @@
+﻿@model Education.Models.Department
+
+@{
+    ViewData["Title"] = "Delete Department";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <h2>Delete Department</h2>
+
+    <h3>Are you sure you want to delete this department?</h3>
+
+    <div>
+        <h4>Department Details</h4>
+        <div>
+            <strong>ID:</strong> @Model.DepartmentId
+        </div>
+        <div>
+            <strong>Name:</strong> @Model.Name
+        </div>
+        <div>
+            <strong>Description:</strong> @Model.Description
+        </div>
+    </div>
+
+    <form id="deleteForm">
+        <input type="hidden" asp-for="DepartmentId" />
+        <!-- Delete button with JavaScript confirmation -->
+        <button type="button" class="btn btn-danger" onclick="confirmDelete()">Delete</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+
+    @section Scripts {
+        <script>
+            function confirmDelete() {
+                var confirmResult = confirm("Are you sure you want to delete this department? All related courses and enrollments will also be deleted.");
+                if (confirmResult) {
+                    document.getElementById('deleteForm').submit();
+                }
+                }
+        </script>
+    }
+</body>
+</html>

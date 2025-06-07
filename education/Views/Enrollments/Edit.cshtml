@@ -1,0 +1,50 @@
+﻿@model Education.Models.Enrollment
+
+@{
+    ViewData["Title"] = "Edit Enrollment";
+}
+
+<h2>Edit Enrollment</h2>
+
+<form asp-action="Edit">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <input type="hidden" asp-for="EnrollmentId" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="StudentId" class="control-label"></label>
+        <select asp-for="StudentId" class="form-control" asp-items="ViewBag.StudentId" required></select>
+        <span asp-validation-for="StudentId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CourseId" class="control-label"></label>
+        <select asp-for="CourseId" class="form-control" asp-items="ViewBag.CourseId" required></select>
+        <span asp-validation-for="CourseId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="EnrollmentDate" class="control-label"></label>
+        <input asp-for="EnrollmentDate" class="form-control" required />
+        <span asp-validation-for="EnrollmentDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+        <a href="@Url.Action("Index")" class="btn btn-secondary">Cancel</a>
+    </div>
+</form>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        var message = '@TempData["SuccessMessage"]';
+        if (message) {
+            toastr.success(message);
+        }
+    });
+</script>

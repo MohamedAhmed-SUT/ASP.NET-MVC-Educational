@@ -1,0 +1,56 @@
+﻿@model Education.Models.Student
+
+@{
+    ViewData["Title"] = "Delete Student";
+}
+
+<h2>Delete Student</h2>
+
+<h3>Are you sure you want to delete this student?</h3>
+
+<div>
+    <h4>Student</h4>
+    <div>
+        <strong>First Name:</strong> @Model.FirstName
+    </div>
+    <div>
+        <strong>Last Name:</strong> @Model.LastName
+    </div>
+    <div>
+        <strong>Email:</strong> @Model.Email
+    </div>
+    <div>
+        <strong>Date of Birth:</strong> @Model.DateOfBirth.ToShortDateString()
+    </div>
+    <div>
+        <strong>Phone Number:</strong> @Model.PhoneNumber
+    </div>
+    <div>
+        <strong>Address:</strong> @Model.Address
+    </div>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            var successMessage = '@TempData["SuccessMessage"]';
+            var errorMessage = '@TempData["ErrorMessage"]';
+
+            if (successMessage) {
+                toastr.success(successMessage);
+            }
+                    if (errorMessage) {
+                toastr.error(errorMessage);
+                    }
+                });
+    </script>
+}

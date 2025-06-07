@@ -1,0 +1,913 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Internship 1\\education\\education\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\education.bundle.scp.css",
+      "PackagePath": "staticwebassets\\education.2fer8s4utq.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\Course\\Edit.css",
+      "PackagePath": "staticwebassets\\Course\\Edit.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\Course\\Index.css",
+      "PackagePath": "staticwebassets\\Course\\Index.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\Course\\create.css",
+      "PackagePath": "staticwebassets\\Course\\create.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\Enrollment\\Index.css",
+      "PackagePath": "staticwebassets\\Enrollment\\Index.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\StudentDetails\\StudentDetails.css",
+      "PackagePath": "staticwebassets\\StudentDetails\\StudentDetails.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\Students\\Index.css",
+      "PackagePath": "staticwebassets\\Students\\Index.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\department\\Edit.css",
+      "PackagePath": "staticwebassets\\department\\Edit.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\department\\Index.css",
+      "PackagePath": "staticwebassets\\department\\Index.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\department\\create.css",
+      "PackagePath": "staticwebassets\\department\\create.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\rcl\\Log in.css",
+      "PackagePath": "staticwebassets\\rcl\\Log in.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\rcl\\Register.css",
+      "PackagePath": "staticwebassets\\rcl\\Register.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\rcl\\Users.css",
+      "PackagePath": "staticwebassets\\rcl\\Users.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\Dark_Mode.css",
+      "PackagePath": "staticwebassets\\root\\Dark_Mode.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\base.css",
+      "PackagePath": "staticwebassets\\root\\base.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\css\\style.css",
+      "PackagePath": "staticwebassets\\root\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\root\\css\\style.min.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\12.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\12.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\4.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\866231-626941572.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\866231-626941572.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\Anas_Meta-image-Template-BLOG-BLOG-3-1.png",
+      "PackagePath": "staticwebassets\\root\\img\\Anas_Meta-image-Template-BLOG-BLOG-3-1.png"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\Database-Management-System.jpeg",
+      "PackagePath": "staticwebassets\\root\\img\\Database-Management-System.jpeg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\How-Programming-Languages-are-Changing-the-World.png",
+      "PackagePath": "staticwebassets\\root\\img\\How-Programming-Languages-are-Changing-the-World.png"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\Touch Designer Art.gif",
+      "PackagePath": "staticwebassets\\root\\img\\Touch Designer Art.gif"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\X5gFB1559764843.png",
+      "PackagePath": "staticwebassets\\root\\img\\X5gFB1559764843.png"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\about.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\bg-image.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\bg-image.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\bg.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\courses-1.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\courses-1.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\courses-2.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\courses-2.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\courses-3.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\courses-3.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\courses-4.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\courses-4.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\courses-5.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\courses-5.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\courses-6.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\courses-6.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\courses-80x80.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\courses-80x80.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\feature.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\feature.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\header.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\header.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\images.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\images.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\introtoprogramming-190909184629-thumbnail-4.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\introtoprogramming-190909184629-thumbnail-4.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\overlay-bottom.png",
+      "PackagePath": "staticwebassets\\root\\img\\overlay-bottom.png"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\overlay-top.png",
+      "PackagePath": "staticwebassets\\root\\img\\overlay-top.png"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\page-header.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\page-header.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\pngtree-group-of-graduates-posing-for-a-graduation-picture-picture-image_2657335.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\pngtree-group-of-graduates-posing-for-a-graduation-picture-picture-image_2657335.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\pngtree-university-or-college-student-study-online-at-home-png-image_11996657.png",
+      "PackagePath": "staticwebassets\\root\\img\\pngtree-university-or-college-student-study-online-at-home-png-image_11996657.png"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\pngtree-university-or-college-student-study-online-at-home-png-image_11996659.png",
+      "PackagePath": "staticwebassets\\root\\img\\pngtree-university-or-college-student-study-online-at-home-png-image_11996659.png"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\root\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\js\\main.js",
+      "PackagePath": "staticwebassets\\root\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\layout.css",
+      "PackagePath": "staticwebassets\\root\\layout.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\root\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\root\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\root\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\root\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\root\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\root\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\root\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\root\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\root\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\root\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\root\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\root\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\root\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\root\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\root\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\root\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\script.js",
+      "PackagePath": "staticwebassets\\root\\script.js"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\root\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Internship 1\\education\\education\\wwwroot\\root\\style.css",
+      "PackagePath": "staticwebassets\\root\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.education.props",
+      "PackagePath": "build\\education.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.education.props",
+      "PackagePath": "buildMultiTargeting\\education.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.education.props",
+      "PackagePath": "buildTransitive\\education.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.education.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.education.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

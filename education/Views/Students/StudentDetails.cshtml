@@ -1,0 +1,71 @@
+﻿@model Education.Models.Student
+
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/StudentDetails/StudentDetails.css" />
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    <div class="container">
+        <h1>@ViewData["Title"]</h1>
+
+        @if (Model == null)
+        {
+            <div class="alert alert-warning">No student found with the provided email.</div>
+        }
+        else
+        {
+            <h3>Student Information</h3>
+            <table class="table">
+                <tr>
+                    <td><strong>First Name:</strong> @Model.FirstName</td>
+                    <td><strong>Date of Birth:</strong> @Model.DateOfBirth.ToShortDateString()</td>
+                </tr>
+                <tr>
+                    <td><strong>Last Name:</strong> @Model.LastName</td>
+                    <td><strong>Phone Number:</strong> @Model.PhoneNumber</td>
+                </tr>
+                <tr>
+                    <td><strong>Email:</strong> @Model.Email</td>
+                    <td><strong>Address:</strong> @Model.Address</td>
+                </tr>
+            </table>
+
+            <h3>Enrollments</h3>
+            @if (!Model.Enrollments.Any())
+            {
+                <div class="alert alert-info">No enrollments found for this student.</div>
+            }
+            else
+            {
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Course</th>
+                            <th>Department</th>
+                            <th>Enrollment Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var enrollment in Model.Enrollments)
+                        {
+                            <tr>
+                                <td>@enrollment.Course.Name</td>
+                                <td>@enrollment.Course.Department.Name</td>
+                                <td>@enrollment.EnrollmentDate.ToString("dd/MM/yyyy")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+        }
+    </div>
+</body>
+</html>

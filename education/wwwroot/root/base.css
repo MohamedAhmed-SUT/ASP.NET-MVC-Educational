@@ -1,0 +1,165 @@
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 5%;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+}
+
+.carousel-indicators li {
+    background-color: #333;
+}
+
+.carousel-indicators .active {
+    background-color: #007bff;
+}
+
+.carousel-caption {
+    bottom: 20%;
+    text-align: center;
+    color: #fff;
+}
+
+
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+.section-title h6 {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #6c757d;
+}
+
+.section-title h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-top: 1rem;
+}
+
+
+.carousel-inner img {
+    height: 500px; 
+    object-fit: cover;
+}
+
+
+.text-center img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #dee2e6; 
+}
+
+.text-center h5 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.text-center p {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+
+.text-center a {
+    font-size: 1.5rem;
+    color: #343a40;
+    transition: color 0.3s;
+}
+
+    .text-center a:hover {
+        color: #007bff; 
+    }
+
+
+.mt-5 {
+    margin-top: 3rem;
+}
+
+.mt-4 {
+    margin-top: 2rem;
+}
+
+
+.p-1 {
+    padding: 0.25rem;
+}
+.bg-image {
+     
+   
+    
+}
+
+
+.section-title h6 {
+    font-size: 1.2rem;
+    color: #6c757d;
+    margin-bottom: 0.5rem;
+}
+
+.section-title h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+
+.team-member {
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #fff;
+    text-align: center;
+}
+
+    .team-member img {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        object-fit: cover;
+        margin-bottom: 15px;
+    }
+
+    .team-member h5 {
+        font-size: 1.2rem;
+        font-weight: 600;
+        margin-bottom: 5px;
+        color: #333;
+    }
+
+    .team-member span {
+        font-size: 0.9rem;
+        color: #777;
+        margin-bottom: 10px;
+        display: block;
+    }
+
+    
+    .team-member a {
+        font-size: 1.2rem;
+        color: #343a40;
+        margin: 0 5px;
+        transition: color 0.3s;
+    }
+
+        .team-member a:hover {
+            color: #007bff; 
+        }

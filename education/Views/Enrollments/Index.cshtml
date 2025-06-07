@@ -1,0 +1,86 @@
+﻿@model IEnumerable<Education.Models.Enrollment>
+
+@{
+    ViewData["Title"] = "Enrollments";
+}
+<link rel="stylesheet" href="~/Enrollment/Index.css" />
+<h1>Enrollments</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New Enrollment</a>
+</p>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info" role="alert">
+        No enrollments found.
+    </div>
+}
+else
+{
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    <table>
+        <thead>
+            <tr>
+                <th>Student</th>
+                <th>Course</th>
+                <th>Department</th>
+                <th>Enrollment Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Select((enrollment, index) => new { enrollment, index }))
+            {
+                <tr class="@(item.index % 2 == 0 ? "table-light" : "table-secondary")" id="row-@item.enrollment.EnrollmentId">
+                    <td>@item.enrollment.Student.Email</td>
+                    <td>@item.enrollment.Course.Name</td>
+                    <td>@item.enrollment.Course.Department.Name</td>
+                    <td>@item.enrollment.EnrollmentDate.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.enrollment.EnrollmentId" class="btn btn-sm btn-warning">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.enrollment.EnrollmentId" class="btn btn-sm btn-info">Details</a>
+                        <button class="btn btn-sm btn-danger" onclick="confirmDelete(@item.enrollment.EnrollmentId)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+    <script>
+        function confirmDelete(id) {
+            if (confirm("Are you sure you want to delete this enrollment? All related information will also be deleted.")) {
+                deleteEnrollment(id);
+            }
+        }
+
+        function deleteEnrollment(id) {
+            $.ajax({
+                url: '@Url.Action("Delete", "Enrollments")',
+                type: 'POST',
+                data: { id: id },
+                success: function (result) {
+                    if (result.success) {
+                        toastr.success('Enrollment deleted successfully!');
+                        $('#row-' + id).remove();
+                    } else {
+                        toastr.error('An error occurred while deleting the enrollment: ' + result.message);
+                    }
+                },
+                error: function (xhr, status, error) {
+                    toastr.error('An error occurred while deleting the enrollment.');
+                }
+            });
+        }
+    </script>
+}

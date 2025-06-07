@@ -1,0 +1,30 @@
+﻿body {
+    background-color: white;
+    color: black;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+
+    body.dark-mode {
+        background-color: #121212;
+        color: #ffffff;
+    }
+
+
+.theme-toggle {
+    cursor: pointer;
+    font-size: 24px;
+    background: none;
+    border: none;
+    outline: none;
+    color: inherit;
+    transition: transform 0.3s;
+}
+
+.navbar-light.bg-white.dark-mode {
+    background-color: #333333;
+}
+
+.footer.bg-dark.dark-mode {
+    background-color: #1e1e1e;
+}

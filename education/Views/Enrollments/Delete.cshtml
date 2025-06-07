@@ -1,0 +1,74 @@
+﻿@model Education.Models.Enrollment
+
+@{
+    ViewData["Title"] = "Delete Enrollment";
+}
+
+<h1>Delete Enrollment</h1>
+
+<hr />
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Enrollment</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Student
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Student.Email
+        </dd>
+        <dt class="col-sm-2">
+            Course
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Course.Name
+        </dd>
+        <dt class="col-sm-2">
+            Department
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Course.Department.Name
+        </dd>
+        <dt class="col-sm-2">
+            Enrollment Date
+        </dt>
+        <dd class="col-sm-10">
+            @Model.EnrollmentDate.ToString("dd/MM/yyyy")
+        </dd>
+    </dl>
+
+    <button id="deleteButton" data-id="@Model.EnrollmentId" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#deleteButton').click(function () {
+                var id = $(this).data('id');
+
+                $.ajax({
+                    url: '@Url.Action("DeleteConfirmed")',
+                    type: 'POST',
+                    data: { id: id },
+                    success: function (result) {
+                        if (result.success) {
+                            toastr.success('Enrollment deleted successfully!');
+                            window.location.href = '@Url.Action("Index")'; 
+                        } else {
+                            toastr.error('An error occurred while deleting the enrollment.');
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        toastr.error('An error occurred while deleting the enrollment.');
+                    }
+                });
+            });
+        });
+    </script>
+}

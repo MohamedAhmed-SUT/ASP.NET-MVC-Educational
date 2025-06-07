@@ -1,0 +1,14 @@
+﻿﻿@if (TempData["successData"] != null)
+{
+    <h3 style="color:brown;">
+        @TempData["successData"]
+    </h3>
+}
+
+
+@if (TempData["errorData"] != null)
+{
+    <h3 style="color:brown;">
+        @TempData["errorData"]
+    </h3>
+}

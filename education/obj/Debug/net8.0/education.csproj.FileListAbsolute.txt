@@ -1,0 +1,1132 @@
+D:\education\education\bin\Debug\net8.0\education.exe
+D:\education\education\bin\Debug\net8.0\education.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\education\education\bin\Debug\net8.0\appsettings.Development.json
+D:\education\education\bin\Debug\net8.0\appsettings.json
+D:\education\education\bin\Debug\net8.0\education.staticwebassets.runtime.json
+D:\education\education\bin\Debug\net8.0\education.deps.json
+D:\education\education\bin\Debug\net8.0\education.runtimeconfig.json
+D:\education\education\bin\Debug\net8.0\education.pdb
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\education\education\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\education\education\bin\Debug\net8.0\refs\mscorlib.dll
+D:\education\education\bin\Debug\net8.0\refs\netstandard.dll
+D:\education\education\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Collections.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\education\education\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\education\education\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\education\education\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\education\education\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\education\education\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\education\education\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Console.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Core.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Data.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\education\education\bin\Debug\net8.0\refs\System.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\education\education\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Linq.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Memory.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\education\education\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Security.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\education\education\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\education\education\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Threading.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\education\education\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Web.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Windows.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Xml.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\education\education\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\education\education\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\education\education\bin\Debug\net8.0\Azure.Core.dll
+D:\education\education\bin\Debug\net8.0\Azure.Identity.dll
+D:\education\education\bin\Debug\net8.0\Humanizer.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.Build.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\education\education\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\education\education\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\education\education\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\education\education\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\education\education\bin\Debug\net8.0\NuGet.Common.dll
+D:\education\education\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\education\education\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\education\education\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\education\education\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\education\education\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\education\education\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\education\education\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\education\education\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\education\education\bin\Debug\net8.0\System.CodeDom.dll
+D:\education\education\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\education\education\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\education\education\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\education\education\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\education\education\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\education\education\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\education\education\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\education\education\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\education\education\bin\Debug\net8.0\System.Memory.Data.dll
+D:\education\education\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\education\education\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\education\education\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\education\education\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\education\education\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\education\education\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\education\education\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\education\education\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\education\education\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\education\education\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\education\education\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\education\education\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\education\education\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\education\education\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\education\education\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\education\education\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\education\education\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\education\education\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\education\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\education\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\education\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\education\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\education\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\education\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\education\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\education\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\education\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\education\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\education\education\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\education\education\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\education\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\education\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\education\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\education\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\education\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\education\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\education\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\education\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\education\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\education\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\education\education\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\education\education\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\education\education\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\education\education\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\education\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\education\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\education\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\education\education\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\education\education\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\education\education\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\education\education\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\education\education\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\education\education\obj\Debug\net8.0\education.csproj.AssemblyReference.cache
+D:\education\education\obj\Debug\net8.0\education.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\education\obj\Debug\net8.0\education.AssemblyInfoInputs.cache
+D:\education\education\obj\Debug\net8.0\education.AssemblyInfo.cs
+D:\education\education\obj\Debug\net8.0\education.csproj.CoreCompileInputs.cache
+D:\education\education\obj\Debug\net8.0\education.MvcApplicationPartsAssemblyInfo.cs
+D:\education\education\obj\Debug\net8.0\education.MvcApplicationPartsAssemblyInfo.cache
+D:\education\education\obj\Debug\net8.0\education.RazorAssemblyInfo.cache
+D:\education\education\obj\Debug\net8.0\education.RazorAssemblyInfo.cs
+D:\education\education\obj\Debug\net8.0\staticwebassets.build.json
+D:\education\education\obj\Debug\net8.0\staticwebassets.development.json
+D:\education\education\obj\Debug\net8.0\staticwebassets\msbuild.education.Microsoft.AspNetCore.StaticWebAssets.props
+D:\education\education\obj\Debug\net8.0\staticwebassets\msbuild.build.education.props
+D:\education\education\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.education.props
+D:\education\education\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.education.props
+D:\education\education\obj\Debug\net8.0\staticwebassets.pack.json
+D:\education\education\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\education\education\obj\Debug\net8.0\scopedcss\bundle\education.styles.css
+D:\education\education\obj\Debug\net8.0\scopedcss\projectbundle\education.bundle.scp.css
+D:\education\education\obj\Debug\net8.0\education.csproj.Up2Date
+D:\education\education\obj\Debug\net8.0\education.dll
+D:\education\education\obj\Debug\net8.0\refint\education.dll
+D:\education\education\obj\Debug\net8.0\education.pdb
+D:\education\education\obj\Debug\net8.0\education.genruntimeconfig.cache
+D:\education\education\obj\Debug\net8.0\ref\education.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\appsettings.Development.json
+D:\Internship 1\education\education\bin\Debug\net8.0\appsettings.json
+D:\Internship 1\education\education\bin\Debug\net8.0\education.staticwebassets.runtime.json
+D:\Internship 1\education\education\bin\Debug\net8.0\education.staticwebassets.endpoints.json
+D:\Internship 1\education\education\bin\Debug\net8.0\education.exe
+D:\Internship 1\education\education\bin\Debug\net8.0\education.deps.json
+D:\Internship 1\education\education\bin\Debug\net8.0\education.runtimeconfig.json
+D:\Internship 1\education\education\bin\Debug\net8.0\education.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\education.pdb
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\mscorlib.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\netstandard.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Collections.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Console.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Core.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Data.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Linq.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Memory.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Security.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Threading.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Web.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Windows.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Xml.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Azure.Core.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Azure.Identity.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Humanizer.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\NuGet.Common.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\System.CodeDom.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Internship 1\education\education\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Internship 1\education\education\obj\Debug\net8.0\education.csproj.AssemblyReference.cache
+D:\Internship 1\education\education\obj\Debug\net8.0\education.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship 1\education\education\obj\Debug\net8.0\education.AssemblyInfoInputs.cache
+D:\Internship 1\education\education\obj\Debug\net8.0\education.AssemblyInfo.cs
+D:\Internship 1\education\education\obj\Debug\net8.0\education.csproj.CoreCompileInputs.cache
+D:\Internship 1\education\education\obj\Debug\net8.0\education.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship 1\education\education\obj\Debug\net8.0\education.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship 1\education\education\obj\Debug\net8.0\education.RazorAssemblyInfo.cache
+D:\Internship 1\education\education\obj\Debug\net8.0\education.RazorAssemblyInfo.cs
+D:\Internship 1\education\education\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Internship 1\education\education\obj\Debug\net8.0\scopedcss\bundle\education.styles.css
+D:\Internship 1\education\education\obj\Debug\net8.0\scopedcss\projectbundle\education.bundle.scp.css
+D:\Internship 1\education\education\obj\Debug\net8.0\staticwebassets.build.json
+D:\Internship 1\education\education\obj\Debug\net8.0\staticwebassets.development.json
+D:\Internship 1\education\education\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Internship 1\education\education\obj\Debug\net8.0\staticwebassets\msbuild.education.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Internship 1\education\education\obj\Debug\net8.0\staticwebassets\msbuild.education.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Internship 1\education\education\obj\Debug\net8.0\staticwebassets\msbuild.build.education.props
+D:\Internship 1\education\education\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.education.props
+D:\Internship 1\education\education\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.education.props
+D:\Internship 1\education\education\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Internship 1\education\education\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Internship 1\education\education\obj\Debug\net8.0\education.csproj.Up2Date
+D:\Internship 1\education\education\obj\Debug\net8.0\education.dll
+D:\Internship 1\education\education\obj\Debug\net8.0\refint\education.dll
+D:\Internship 1\education\education\obj\Debug\net8.0\education.pdb
+D:\Internship 1\education\education\obj\Debug\net8.0\education.genruntimeconfig.cache
+D:\Internship 1\education\education\obj\Debug\net8.0\ref\education.dll

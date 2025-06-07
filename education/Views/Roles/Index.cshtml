@@ -1,0 +1,44 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@model IEnumerable<IdentityUser>
+
+@{
+    ViewData["Title"] = "Users";
+}
+<link rel="stylesheet" href="~/rcl/Users.css" />
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-12">
+            <h2 class="text-primary">System Users</h2>
+        </div>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                
+                <th scope="col">User Name</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="table-primary">
+                    
+                    <td>@item.UserName</td>
+                    <td>
+                        <a asp-controller="Roles" asp-action="AddRoles" asp-route-userId="@item.Id" class="btn btn-sm btn-info">
+                            <i class="bi bi-person-badge"></i> Manage Roles
+                        </a>
+                        <form asp-action="DeleteUser" method="post" style="display:inline;">
+                            <input type="hidden" name="userId" value="@item.Id" />
+                            <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Are you sure you want to delete this user?');">
+                                <i class="bi bi-trash"></i> Delete
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

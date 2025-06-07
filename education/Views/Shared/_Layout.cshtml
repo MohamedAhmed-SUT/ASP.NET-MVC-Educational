@@ -1,0 +1,155 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Education</title>
+    <link rel="stylesheet" href="~/root/Dark_Mode.css" />
+    <link rel="stylesheet" href="~/root/layout.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/education.styles.css" asp-append-version="true" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <div class="container-fluid p-0">
+            <nav class="navbar navbar-expand-lg  navbar-light py-2 px-lg-4  shadow-sm mb-2">
+                <a class="navbar-brand ml-lg-3" href='@Url.Action("Index", "Home")'>
+                    <h1 class="m-0 text-uppercase text-primary"><i class="fa fa-book-reader mr-3"></i>Education</h1>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
+                    <div class="navbar-nav mx-auto py-0">
+                        @if (User.Identity.IsAuthenticated && !User.IsInRole("Admin"))
+                        {
+                            <a class="nav-item nav-link active" href='@Url.Action("Index", "Home")'>Home</a>
+                            <a id="studentDetailsLink" class="nav-item nav-link">Student Details</a>
+                            
+                        }                        
+                        @if (User.IsInRole("Admin"))
+                        {
+                        <a class="nav-item nav-link" href='@Url.Action("Index", "Department")'>Departments</a>
+                        <a class="nav-item nav-link" href='@Url.Action("Index", "Courses")'>Courses</a>
+                        <a class="nav-item nav-link" href='@Url.Action("Index", "Students")'>Students</a>
+                        <a class="nav-item nav-link" href='@Url.Action("Index", "Enrollments")'>Enrollments</a>
+                            <a href='@Url.Action("index", "Roles")' class="nav-item nav-link">UserRoles</a>
+                        }
+                        <button id="darkModeToggle" class="theme-toggle sun">☀️</button>
+                    </div>
+                </div>
+                <partial name="_LoginPartial" />
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="container-fluid bg-dark text-white-50 border-top py-4" style="border-color: rgba(256, 256, 256, .1) !important;position: absolute;bottom: 0;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 text-center text-md-left mb-3 mb-md-0">
+                    <p class="m-0">
+                        Copyright &copy; <a class="text-white" href="@Url.Action("Index", "Home")">Education</a>. All Rights Reserved.
+                    </p>
+                </div>
+                <div class="col-md-6 text-center text-md-right">
+                    <p class="m-0">
+                        Designed by <a class="text-white" href="@Url.Action("Index", "Home")">Mohamed Ahmed</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script>
+        toastr.options = {
+            "closeButton": true,
+            "debug": false,
+            "newestOnTop": true,
+            "progressBar": true,
+            "positionClass": "toast-top-right",
+            "preventDuplicates": false,
+            "onclick": null,
+            "showDuration": "300",
+            "hideDuration": "1000",
+            "timeOut": "5000",
+            "extendedTimeOut": "1000",
+            "showEasing": "swing",
+            "hideEasing": "linear",
+            "showMethod": "fadeIn",
+            "hideMethod": "fadeOut"
+        };
+
+        $(document).ready(function () {
+            // Display success message if available
+            var successMessage = '@TempData["SuccessMessage"]';
+            if (successMessage) {
+                toastr.success(successMessage);
+            }
+
+            // Update student details link
+            var userEmail = '@TempData["UserEmail"]';
+            if (userEmail) {
+                var studentDetailsLink = document.getElementById('studentDetailsLink');
+                studentDetailsLink.href = '@Url.Action("DetailsByEmail", "Details", new { email = "__EMAIL__" })'.replace('__EMAIL__', encodeURIComponent(userEmail));
+                
+                // Store email in localStorage
+                localStorage.setItem('userEmail', userEmail);
+            } else {
+                // Retrieve email from localStorage if available
+                var storedEmail = localStorage.getItem('userEmail');
+                if (storedEmail) {
+                    var studentDetailsLink = document.getElementById('studentDetailsLink');
+                    studentDetailsLink.href = '@Url.Action("DetailsByEmail", "Details", new { email = "__EMAIL__" })'.replace('__EMAIL__', encodeURIComponent(storedEmail));
+                }
+            }
+        });
+    </script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var darkModeToggle = document.getElementById('darkModeToggle');
+
+            if (darkModeToggle) {
+                darkModeToggle.addEventListener('click', function () {
+                    document.body.classList.toggle('dark-mode');
+
+                    if (document.body.classList.contains('dark-mode')) {
+                        this.innerHTML = '🌙';
+                        this.classList.remove('sun');
+                        this.classList.add('moon');
+                    } else {
+                        this.innerHTML = '☀️';
+                        this.classList.remove('moon');
+                        this.classList.add('sun');
+                    }
+
+                    localStorage.setItem('theme', document.body.classList.contains('dark-mode') ? 'dark' : 'light');
+                });
+
+                if (localStorage.getItem('theme') === 'dark') {
+                    document.body.classList.add('dark-mode');
+                    darkModeToggle.innerHTML = '🌙';
+                    darkModeToggle.classList.remove('sun');
+                    darkModeToggle.classList.add('moon');
+                } else {
+                    darkModeToggle.innerHTML = '☀️';
+                    darkModeToggle.classList.remove('moon');
+                    darkModeToggle.classList.add('sun');
+                }
+            }
+        });
+    </script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

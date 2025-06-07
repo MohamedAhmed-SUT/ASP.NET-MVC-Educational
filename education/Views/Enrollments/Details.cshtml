@@ -1,0 +1,42 @@
+﻿@model Education.Models.Enrollment
+
+@{
+    ViewData["Title"] = "Enrollment Details";
+}
+
+<h1>Enrollment Details</h1>
+
+<div>
+    <h4>Enrollment</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Student
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Student.Email
+        </dd>
+        <dt class="col-sm-2">
+            Course
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Course.Name
+        </dd>
+        <dt class="col-sm-2">
+            Department
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Course.Department.Name
+        </dd>
+        <dt class="col-sm-2">
+            Enrollment Date
+        </dt>
+        <dd class="col-sm-10">
+            @Model.EnrollmentDate.ToString("dd/MM/yyyy")
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.EnrollmentId" class="btn btn-primary">Edit</a> |
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

@@ -1,0 +1,72 @@
+﻿@model IEnumerable<roleViewModel>
+
+@{
+    ViewData["Title"] = "addRoles";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/rcl/Users.css" />
+<form method="post" onsubmit="updateJsonFile()">
+    @Html.AntiForgeryToken() 
+    <div class="container p-3">
+        <div class="row pt-4">
+            <div class="col-6">
+                <h2 class="text-primary">User Role</h2>
+                <h3>@ViewBag.userName</h3> 
+            </div>
+        </div>
+
+        <input hidden id="userName" name="userName" value="@ViewBag.userName" />
+        <input hidden id="userId" name="userId" value="@ViewBag.userId" />
+        <input hidden id="jsonRoles" name="jsonRoles" />
+
+        <table id="roleTable">
+            <thead>
+                <tr>
+                    <th scope="col">Role Id</th>
+                    <th scope="col">Role Name</th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr class="table-primary">
+                        <td scope="row" class="tId" width="30%">@item.roleId</td>
+                        <td class="tName">@item.roleName</td>
+                        <td>
+                            <input type="checkbox" class="tCheck" @(item.useRole ? "checked" : "") />
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <button type="submit" class="btn btn-primary" style="width:150px">Save</button>  <a href="@Url.Action("Index")" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <script>
+        function readTableToArr() {
+            var arr = [];
+
+            $("#roleTable tbody tr").each(function (index, data) {
+                const roleId = $(data).find(".tId").text();
+                const roleName = $(data).find(".tName").text();
+                const useRole = $(data).find(".tCheck").is(":checked");
+
+                arr.push({
+                    roleId: roleId,
+                    roleName: roleName,
+                    useRole: useRole
+                });
+            });
+
+            return JSON.stringify(arr);
+        }
+
+        function updateJsonFile() {
+            $("#jsonRoles").val(readTableToArr());
+        }
+    </script>
+}

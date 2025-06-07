@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Education.Models.Department>
+
+@{
+    ViewData["Title"] = "Departments";
+}
+<link rel="stylesheet" href="~/department/Index.css"/>
+<h1>Departments</h1>
+<p>
+    <a href='@Url.Action("Create", "Department")' class="btn btn-primary">Create New Department</a>
+</p>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var department in Model)
+        {
+            <tr>
+                <td>@department.DepartmentId</td>
+                <td>@department.Name</td>
+                <td>@department.Description</td>
+                <td>
+                    <a href='@Url.Action("Edit", "Department", new { id = department.DepartmentId })' class="btn btn-warning">Edit</a>
+
+                    <form asp-action="Delete" asp-route-id="@department.DepartmentId" method="post" style="display:inline;" onsubmit="return confirmDelete();">
+                        <input type="hidden" name="DepartmentId" value="@department.DepartmentId" />
+                        <input type="submit" value="Delete" class="btn btn-danger" />
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+@section Scripts {
+    <script>
+        function confirmDelete() {
+            return confirm("Are you sure you want to delete this department? All related courses and enrollments will also be deleted.");
+        }
+    </script>
+}

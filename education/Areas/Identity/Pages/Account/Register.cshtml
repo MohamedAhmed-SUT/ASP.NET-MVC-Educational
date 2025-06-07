@@ -1,0 +1,100 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = null;
+}
+<link rel="stylesheet" href="~/rcl/Register.css" /> 
+
+<section class="container">
+    <div class="login-container">
+        <div class="circle circle-one"></div>
+        <div class="form-container">
+            <img src="https://raw.githubusercontent.com/hicodersofficial/glassmorphism-login-form/master/assets/illustration.png" alt="illustration" class="illustration" />
+            <h1 class="opacity">@ViewData["Title"]</h1>
+            <h4 class="opacity">Create a new account.</h4>
+            <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                <div class="form-floating mb-3 opacity">
+                    <label asp-for="Input.Email" class="form-label">Email</label>
+                    <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3 opacity">
+                    <label asp-for="Input.Password" class="form-label">Password</label>
+                    <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3 opacity">
+                    <label asp-for="Input.ConfirmPassword" class="form-label">Confirm Password</label>
+                    <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                    <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                </div>
+                <button id="registerSubmit" type="submit" class="opacity w-100 btn btn-lg btn-primary">Register</button>
+            </form>
+            <div class="register-forget opacity">
+                <a class="nav-link text-dark" id="login" asp-area="Identity" asp-page="/Account/Login">Login</a>
+            </div>
+        </div>
+        <div class="circle circle-two"></div>
+    </div>
+    <div class="theme-btn-container"></div>
+</section>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+<script>
+    const themes = [
+        {
+            background: "#1A1A2E",
+            color: "#FFFFFF",
+            primaryColor: "#0F3460"
+        },
+        {
+            background: "#461220",
+            color: "#FFFFFF",
+            primaryColor: "#E94560"
+        },
+        {
+            background: "#192A51",
+            color: "#FFFFFF",
+            primaryColor: "#967AA1"
+        },
+        {
+            background: "#F7B267",
+            color: "#000000",
+            primaryColor: "#F4845F"
+        },
+        {
+            background: "#F25F5C",
+            color: "#000000",
+            primaryColor: "#642B36"
+        },
+        {
+            background: "#231F20",
+            color: "#FFF",
+            primaryColor: "#BB4430"
+        }
+    ];
+
+    const setTheme = (theme) => {
+        const root = document.querySelector(":root");
+        root.style.setProperty("--background", theme.background);
+        root.style.setProperty("--color", theme.color);
+        root.style.setProperty("--primary-color", theme.primaryColor);
+    };
+
+    const displayThemeButtons = () => {
+        const btnContainer = document.querySelector(".theme-btn-container");
+        themes.forEach((theme) => {
+            const div = document.createElement("div");
+            div.className = "theme-btn";
+            div.style.cssText = `background: ${theme.background}; width: 25px; height: 25px; cursor: pointer; margin-right: 10px; border-radius: 0px;`;
+            btnContainer.appendChild(div);
+            div.addEventListener("click", () => setTheme(theme));
+        });
+    };
+
+    displayThemeButtons();
+</script>
